@@ -10,7 +10,7 @@
 
 <p align="left">
  <a href="https://www.w3schools.com/python/default.asp">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><h3>python</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
  </a>
 
  <a href="https://www.w3.org/html/">
