@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align="center">
+
+<img src="undraw_focused-dev_gqoa.png" width="400"/>
+</p>
 
 <!--
 **devsoumyaa/devsoumyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
