@@ -9,7 +9,7 @@
  🛠️ Languages and Tools:
 
 <p align="left">
- <a href="https://www.w3schools.com/python">
+ <a href="https://www.w3schools.com/python/default.asp">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
  </a>
 
@@ -17,19 +17,19 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
  </a>
 
- <a href="https://www.w3school.com/css">
+ <a href="https://www.w3schools.com/css/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
  </a>
 
- <a href="https://www.w3school.com/javascript">
+ <a href="https://www.w3schools.com/js/default.asp">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
  </a>
 
- <a href="https://www.w3school.com/django">
+ <a href="https://www.w3schools.com/django/index.php">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
  </a>
 
- <a href="https://www.w3school.com/postgresql">
+ <a href="https://www.w3schools.com/postgresql/index.php">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
  </a>
 </p>
