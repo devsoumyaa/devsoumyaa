@@ -6,6 +6,20 @@
 <h1 align="center">Hi 👋, I'm Soumyashree Mishra</h1>
 <h3 align="center">Full Stack Developer</h3>
 
+## 🌐 Connect With Me:
+
+<p align="left">
+  <a href="https://linkedin.com/in/soumyashree474">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.hackerrank.com/mishrasoumya474">
+    <img src="https://skillicons.dev/icons?i=hackerrank" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/mishrasoumya">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" />
+  </a>
+</p>
+
  🛠️ Languages and Tools:
 
 <p align="left">
