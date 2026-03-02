@@ -15,7 +15,7 @@
   <a href="https://www.hackerrank.com/mishrasoumya474">
     <img src="https://skillicons.dev/icons?i=hackerrank" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/mishrasoumya">
+  <a href="https://www.geeksforgeeks.org/user/mishrasoumya474">
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
   </a>
 </p>
