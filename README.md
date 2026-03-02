@@ -13,7 +13,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.hackerrank.com/mishrasoumya474">
-    <img src="https://commons.wikimedia.org/wiki/File:HackerRank_Icon-1000px.png" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD9-yMhsYFdAa2QkcQv0JRjW8vobFwG1wgjlWASLCvAA&s" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/mishrasoumya474">
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
