@@ -13,7 +13,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.hackerrank.com/mishrasoumya474">
-    <img src="https://en.wikipedia.org/wiki/HackerRank" />
+    <img src="<a href="https://iconscout.com/icons/hackerrank" class="text-underline font-size-sm" target="_blank">Hackerrank</a> by <a href="https://iconscout.com/contributors/icon-54" class="text-underline font-size-sm">Icon 54</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/mishrasoumya474">
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
