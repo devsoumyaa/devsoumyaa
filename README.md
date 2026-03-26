@@ -6,11 +6,6 @@
 <h1 align="center">Soumyashree Mishra</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<h3>🧑‍💻 About Me</h3>
-<h4>🎓 4th Year B.Tech CSE | 8.0 CGPA</h4>
-<h4>💻 Strong in Python, SQL, DSA, JavaScript</h4>
-<h4>🚀 Currently developing websites using django</h4>
-
 
 ## 🌐 Connect With Me:
 
