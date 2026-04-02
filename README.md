@@ -80,7 +80,7 @@ Goal: Software Engineer 🚀
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devsoumyaa/devsoumyaa/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/devsoumyaa/devsoumyaa/output/github-contribution-grid-snake-dark.svg?nocache=1" />
 </p>
 
 ---
