@@ -87,7 +87,7 @@ Goal: Software Engineer 🚀
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/devsoumyaa?theme=dark&font=Orbitron"/>
+  <img src="https://leetcard.jacoblin.cool/Soumyashree_Mishra_26?theme=dark&font=Orbitron"/>
 </p>
 
 ---
