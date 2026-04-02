@@ -63,7 +63,7 @@ Goal: Software Engineer 🚀
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=devsoumyaa&theme=tokyonight&hide_border=true"/>
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=devsoumyaa&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
