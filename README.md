@@ -54,7 +54,8 @@ Goal: Software Engineer 🚀
 
 | Project            | Description            | Tech        |
 | ------------------ | ---------------------- | ----------- |
-| 📝 Task Management    | CRUD-based task system | Django + JS |
+| 📝 Task Management    | CRUD-based task system |  HTML + CSS + JS |
+| 🌐 Medical Data Asset Sharing| Block-chain Based      | python + Django  |
 | 🌐 Portfolio       | Personal website       | HTML + CSS  |
 | 🐍 Python Projects | Problem solving        | Python      |
 
