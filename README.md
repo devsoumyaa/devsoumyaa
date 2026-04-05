@@ -54,7 +54,7 @@ Goal: Software Engineer 🚀
 
 | Project            | Description            | Tech        |
 | ------------------ | ---------------------- | ----------- |
-| 📝 Task Manager    | CRUD-based task system | Django + JS |
+| 📝 Task Management    | CRUD-based task system | Django + JS |
 | 🌐 Portfolio       | Personal website       | HTML + CSS  |
 | 🐍 Python Projects | Problem solving        | Python      |
 
